@@ -22,6 +22,48 @@ O **Legend of the Kitsune** simula uma engine de jogo clássica rodando diretame
 * **Gestão de Memória:** Uso direto do Heap (`0xFF000000`) para renderização de frames.
 * **Lógica de Colisão:** Implementação de detecção de barreiras baseada em tiles.
 * **Áudio MIDI:** Trilha sonora integrada via syscalls de tempo real.
+* 
+ ## 🎮 Controles / Controls
+
+| Ação / Action | Tecla / Key |
+| :--- | :---: |
+| Mover para cima / Move up | **W** |
+| Mover para esquerda / Move left | **A** |
+| Mover para baixo / Move down | **S** |
+| Mover para direita / Move right | **D** |
+| Atacar / Interagir (Attack / Interact) | **K** |
+
+---
+
+## 👾 Bestiário / Bestiary
+
+| Inimigo / Enemy | Comportamento / Behavior | Dificuldade / Difficulty |
+| :--- | :--- | :---: |
+| 🐍 **Cobra** | Ataque à distância e movimento circular | ⭐⭐ |
+| 👤 **Jagunço** | Movimentação básica e patrulha | ⭐ |
+| 👹 **Yeti (Loja)** | NPC Interativo / Boss Estático | ⭐⭐⭐ |
+
+---
+
+## 👥 Equipe de Desenvolvimento / Development Team
+
+| Desenvolvedor / Developer | Papel / Role |
+| :--- | :--- |
+| **Geovanne Junio** | ![Assembly](https://img.shields.io/badge/Main-Developer-blue) |
+
+---
+
+## 📜 Licença / License
+
+Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+<div align="center">
+  ⭐ Se você gostou deste projeto, considere dar uma estrela! / If you enjoyed this project, consider giving it a star!
+  <br>
+  Feito com 💙 e muito Assembly | Made with 💙 and lots of Assembly
+</div>
 
 ## 📂 Estrutura do Projeto
 * **`/src`**: Código-fonte (`main.s`) e lógica de áudio.
@@ -36,4 +78,5 @@ O **Legend of the Kitsune** simula uma engine de jogo clássica rodando diretame
 3. Monte e execute o arquivo `src/main.s`.
 
 ---
+
 👨‍💻 [Geovanne Junio](https://www.linkedin.com/in/geovanne-junio-18849b1b2/) - Ciência da Computação, UnB.
