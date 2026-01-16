@@ -42,7 +42,7 @@ O **Legend of the Kitsune** simula uma engine de jogo clássica rodando diretame
 | 🐍 **Cobra** | Ataque à distância e movimento circular 
 | 👤 **Jagunço** | Movimentação básica e patrulha 
 | 👹 **Yeti (Loja)** | NPC Interativo / Boss Estático 
-|🧊 **Rainha de Gelo** | NPC Interativo / Estático
+| 🧊 **Rainha de Gelo** | NPC Interativo / Estático
 ---
 
 ## 👥 Equipe de Desenvolvimento / Development Team
@@ -80,4 +80,5 @@ Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](
 ---
 
 👨‍💻 [Geovanne Junio](https://www.linkedin.com/in/geovanne-junio-18849b1b2/) - Ciência da Computação, UnB.
+
 
