@@ -21,14 +21,14 @@ O **Legend of the Kitsune** é um projeto de baixo nível que simula uma engine 
 
 ---
 
-## 👾 Bestiário / Bestiary
+## 👾 Bestiário e Personagens / Bestiary & Characters
 
 | Inimigo-NPC / Enemy-NPC | Comportamento / Behavior |
-| :--- | :--- | :---: |
-| 🐍 **Cobra** | Ataque à distância e movimento circular |
-| 👤 **Jagunço** | Movimentação básica e patrulha em área |
-| 🧊 **Rainha de Gelo** | **NPC Interativo** |
-| 👹 **Yeti (Loja)** | NPC Interativo e guardião de itens |
+| :--- | :--- |
+| 🐍 **Cobra** | Inimigo com ataque à distância e movimento circular |
+| 👤 **Jagunço** | Inimigo com movimentação básica e patrulha em área |
+| 🧊 **Rainha de Gelo** | **NPC interativa com diálogos de lore e história** |
+| 👹 **Yeti (Loja)** | NPC comerciante e guardião de itens importantes |
 
 ---
 
@@ -87,5 +87,5 @@ O **Legend of the Kitsune** é um projeto de baixo nível que simula uma engine 
 <div align="center">
   ⭐ Se você gostou deste projeto, considere dar uma estrela! / If you enjoyed this project, consider giving it a star!
   <br>
-
+  Feito com 💙 e muito Assembly | Made with 💙 and lots of Assembly
 </div>
