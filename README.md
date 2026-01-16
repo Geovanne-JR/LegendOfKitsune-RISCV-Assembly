@@ -37,12 +37,12 @@ O **Legend of the Kitsune** simula uma engine de jogo clássica rodando diretame
 
 ## 👾 Bestiário / Bestiary
 
-| Inimigo / Enemy | Comportamento / Behavior | Dificuldade / Difficulty |
+| Inimigo / Enemy | Comportamento / Behavior 
 | :--- | :--- | :---: |
-| 🐍 **Cobra** | Ataque à distância e movimento circular | ⭐⭐ |
-| 👤 **Jagunço** | Movimentação básica e patrulha | ⭐ |
-| 👹 **Yeti (Loja)** | NPC Interativo / Boss Estático | ⭐⭐⭐ |
-
+| 🐍 **Cobra** | Ataque à distância e movimento circular 
+| 👤 **Jagunço** | Movimentação básica e patrulha 
+| 👹 **Yeti (Loja)** | NPC Interativo / Boss Estático 
+|🧊 **Rainha de Gelo** | NPC Interativo / Estático
 ---
 
 ## 👥 Equipe de Desenvolvimento / Development Team
@@ -60,9 +60,9 @@ Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](
 ---
 
 <div align="center">
-  ⭐ Se você gostou deste projeto, considere dar uma estrela! / If you enjoyed this project, consider giving it a star!
+   Se você gostou deste projeto arretado, considere dar uma estrela! / If you enjoyed this project, consider giving it a star!
   <br>
-  Feito com 💙 e muito Assembly | Made with 💙 and lots of Assembly
+  Feito com muito energetico e carinho | Made with lots of energy drink and fondness
 </div>
 
 ## 📂 Estrutura do Projeto
@@ -80,3 +80,4 @@ Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](
 ---
 
 👨‍💻 [Geovanne Junio](https://www.linkedin.com/in/geovanne-junio-18849b1b2/) - Ciência da Computação, UnB.
+
