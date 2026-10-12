@@ -26,7 +26,7 @@ O **Legend of the Kitsune** é um projeto de baixo nível que simula uma engine 
 | Inimigo-NPC / Enemy-NPC | Comportamento / Behavior |
 | :--- | :--- |
 | 🐍 **Cobra** | Inimigo com ataque à distância e movimento circular |
-| 👤 **Jagunço** | Inimigo com movimentação básica e patrulha em área |
+| 👤 **Jagunço** | Protagonista com movimentação básica e ataque com espada |
 | 🧊 **Rainha de Gelo** | **NPC interativa com diálogos de lore e história** |
 | 👹 **Yeti (Loja)** | NPC comerciante e guardião de itens importantes |
 
